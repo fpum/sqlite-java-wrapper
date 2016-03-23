@@ -1,7 +1,5 @@
 package de.pum.sqlitewrapper;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
-
 /**
  * Created by pum on 13.11.2015.
  */
