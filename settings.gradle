@@ -1,0 +1,9 @@
+rootProject.name = 'sqlite-java-wrapper'
+
+include 'sqlite-java-wrapper-core'
+
+include 'sqlite-java-wrapper-jre'
+
+include 'sqlite-java-wrapper-android'
+
+
